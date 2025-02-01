@@ -5,3 +5,5 @@ Before starting add env_variable `GROQ_API_KEY`, or set it in backend.py
 
 Start backend.py `python backend.py` will run at `localhost:5000`
 cd into `frontend` and run `npm start`
+
+In Groq documents it says that confidence level is not yet supported.
